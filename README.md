@@ -1,4 +1,5 @@
 # Alexandru Reznic
+
 * Languages:
     * Russian - native
     * Romanian - native
@@ -12,13 +13,17 @@
 
 Moldova, Chisinau. Prefer remote work
 
-## Professional experience
-| Period                | Role                                 | Description                                                                                                                                                                                                                                                                   |
-|-----------------------|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 11.2021- now **1y3m** | Senior Android Developer (DataDrive) | ELD(Electronic logging device) is a technology used in the trucking industry to track and record a commercial driver's hours of service. Developed from scratch, Kotlin, Clean architecture, MVVM, Koin, Room. Custom theme, support portrait, landscape, phones and tablets. |
+# Professional experience
 
+| Period                     | Role(Company)                                     | Description                                                                                                                                                                                                                                                                             |
+|----------------------------|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 11.2021 - now **1y3m**     | Senior Android Developer(**DataDrive**)           | ELD(Electronic logging device) is a technology used in the trucking industry to track and record a commercial driver's hours of service. Developed from scratch, Kotlin, Clean architecture, MVVM, Koin, Room. Custom theme, support portrait, landscape, phones and tablets.           |
+| 07.2020 - 11.2021 **1y4m** | Kotlin Backend Developer(**Orange**)              | Orange Money Romania, BFF microservice, Refactoring and Performance of GraphQL microservice. Kotlin, Kafka, Coroutines. Improve requests time from 4s to 2s                                                                                                                             |
+| 02.2018 - 07.2020 **2y5m** | Team Lead Android Developer(**LogoSoft**)         | I have led team of 3 people, developed from scratch [traft](https://play.google.com/store/apps/details?id=ru.traft.mobile), Single Activity, MVVM, Room, Retrofit, Git Flow, Second app [com.vezubr.driver](https://play.google.com/store/apps/details?id=ru.traft.mobile) refactoring. |
+| 02.2014 - 02.2018 **4y**   | Backend / Frontend Developer(**Reznic Software**) | App for tourism B2B [flintour](https://flintour.com) and Backoffice application for tourism [backoffice](https://bo.flintour.com) Spring, Tomcat, Angular 1. Communicated with the client for certain projects to understand the requirements and expectations.                         |
 
-## Skills
+# Skills
+
 |                        |                                                               |
 |------------------------|---------------------------------------------------------------|
 | Programming Languages  | Kotlin, Java, Dart, SQL                                       |
@@ -26,7 +31,7 @@ Moldova, Chisinau. Prefer remote work
 | Databases              | PostgreSQL, SQLite                                            |
 | Services               | GitLab, GitHub, Docker, Jenkins, GitLab CI, Jira, Youtrack    |
 
-### Android
+#### Android
 
 * Clean Architecture
 * MVVM, MVP
@@ -35,8 +40,7 @@ Moldova, Chisinau. Prefer remote work
 * Retrofit
 * RxJava
 
-
-### Java-Related
+#### Java-Related
 
 * Kotlin: expert
 * Spring Boot:
@@ -48,14 +52,21 @@ Moldova, Chisinau. Prefer remote work
 * Kafka
 * GraphQL
 
-## Summary
-Highly  motivated  and  enthusiastic  Senior  Software  Development  Engineer  with  more  than  16  years  of software engineering experience in the development of entire android apps, games and back-end services. I try to follow development trends and often learn new languages and technologies.
+# Summary
+
+Highly motivated and enthusiastic Senior Software Development Engineer with more than 16 years of software engineering
+experience in the development of entire android apps, games and back-end services. I try to follow development trends
+and often learn new languages and technologies.
 
 In my free time I play computer games, improve my knowledge in English, go fishing.
 
-## Projects
-Unfortunately, my commercial experience has nothing to do with open source, so I can only share my  created while studying some technologies.
+# Projects
+[reznicsoftware.com](https://reznicsoftware.com)
 
+[flintour.com](https://flintour.com)
 
-## Education
+[bo.flintour.com](https://bo.flintour.com)
+
+# Education
+
 * **2008 Bachelor of Informatics** Ion Creanga University
