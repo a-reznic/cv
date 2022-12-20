@@ -12,11 +12,12 @@
 * Moldova, Chisinau. Prefer remote work
 
 ## Skills
-
-Programming Languages |	Kotlin, Java, Dart, SQL
-Frameworks & Libraries  | Android, Flutter, Spring Boot, Kafka, GraphQL, Junit, Mockito
-Databases |	PostgreSQL, SQLite
-Services  | GitLab, GitHub, Docker, Jenkins, GitLab CI, Jira, Youtrack
+|   |   |
+|---|---|
+ Programming Languages | 	Kotlin, Java, Dart, SQL                            
+ Frameworks & Libraries | Android, Flutter, Spring Boot, Kafka, GraphQL, Junit, Mockito 
+ Databases | 	PostgreSQL, SQLite                                 
+ Services | GitLab, GitHub, Docker, Jenkins, GitLab CI, Jira, Youtrack 
 
 ### Android
 
