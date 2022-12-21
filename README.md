@@ -1,15 +1,15 @@
 # Alexandru Reznic
 
 * Languages:
-    * Russian - native
-    * Romanian - native
-    * English - intermediate
+  * Russian - native
+  * Romanian - native
+  * English - intermediate
 * Contacts:
-    * reznic.a@gmail.com
-    * https://t.me/reznic_a
-    * https://github.com/a-reznic
-    * https://linkedin.com/in/reznic-a
-    * https://stackoverflow.com/users/795616/reznic
+  * reznic.a@gmail.com
+  * https://t.me/reznic_a
+  * https://github.com/a-reznic
+  * https://linkedin.com/in/reznic-a
+  * https://stackoverflow.com/users/795616/reznic
 
 Moldova, Chisinau. Prefer remote work
 
@@ -44,23 +44,25 @@ Moldova, Chisinau. Prefer remote work
 
 * Kotlin: expert
 * Spring Boot:
-    * Core: DI, Bean Post Processor
-    * Web: REST Controller
-    * Security: Basic, Oauth, JWT tokens
-    * Data: Entity, Entity Graph, Repository, Transaction, Flyway migration, Routing Datasource
+  * Core: DI, Bean Post Processor, Aspect
+  * Web: REST Controller
+  * Security: Basic, Oauth, JWT tokens
+  * Data: Entity, Repository, Transaction, Flyway migration
 * Tests: JUnit, Mockito
 * Kafka
 * GraphQL
 
 # Summary
 
-Highly motivated and enthusiastic Senior Software Development Engineer with more than 16 years of software engineering
+Highly motivated and enthusiastic Senior Mobile Development Engineer with more than 16 years of software engineering
 experience in the development of entire android apps, games and back-end services. I try to follow development trends
 and often learn new languages and technologies.
 
-In my free time I play computer games, improve my knowledge in English, go fishing.
+In my free time I play computer games, improve my knowledge in English, listening podcasts.
 
 # Projects
+Flutter Taxi App
+
 [reznicsoftware.com](https://reznicsoftware.com)
 
 [flintour.com](https://flintour.com)
@@ -70,3 +72,10 @@ In my free time I play computer games, improve my knowledge in English, go fishi
 # Education
 
 * **2008 Bachelor of Informatics** Ion Creanga University
+
+___
+This resume is open source
+
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=a-reznic&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+![](https://komarev.com/ghpvc/?username=a-reznic-resume)
