@@ -86,8 +86,7 @@ Flutter - Taxi App
 * **2008 Bachelor of Informatics** Ion Creanga University
 
 ___
-This resume is open source
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=a-reznic&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=a-reznic&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ![](https://komarev.com/ghpvc/?username=a-reznic-resume)
