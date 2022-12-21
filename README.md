@@ -13,44 +13,56 @@
 
 Moldova, Chisinau. Prefer remote work
 
-# Professional experience
+# Professional experience `(16+ years)`
 
-| Period                     | Role(Company)                                     | Description                                                                                                                                                                                                                                                                             |
-|----------------------------|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 11.2021 - now **1y3m**     | Senior Android Developer(**DataDrive**)           | ELD(Electronic logging device) is a technology used in the trucking industry to track and record a commercial driver's hours of service. Developed from scratch, Kotlin, Clean architecture, MVVM, Koin, Room. Custom theme, support portrait, landscape, phones and tablets.           |
-| 07.2020 - 11.2021 **1y4m** | Kotlin Backend Developer(**Orange**)              | Orange Money Romania, BFF microservice, Refactoring and Performance of GraphQL microservice. Kotlin, Kafka, Coroutines. Improve requests time from 4s to 2s                                                                                                                             |
-| 02.2018 - 07.2020 **2y5m** | Team Lead Android Developer(**LogoSoft**)         | I have led team of 3 people, developed from scratch [traft](https://play.google.com/store/apps/details?id=ru.traft.mobile), Single Activity, MVVM, Room, Retrofit, Git Flow, Second app [com.vezubr.driver](https://play.google.com/store/apps/details?id=ru.traft.mobile) refactoring. |
-| 02.2014 - 02.2018 **4y**   | Backend / Frontend Developer(**Reznic Software**) | App for tourism B2B [flintour](https://flintour.com) and Backoffice application for tourism [backoffice](https://bo.flintour.com) Spring, Tomcat, Angular 1. Communicated with the client for certain projects to understand the requirements and expectations.                         |
+| Period                     | Role(Company)                                        | Description                                                                                                                                                                                                                                                                                              |
+|----------------------------|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 11.2021 - now **1y3m**     | Senior Android Developer(**DataDrive**)              | ELD(Electronic logging device) is a technology used in the trucking industry to track and record a commercial driver's hours of service. Developed from scratch, Kotlin, Clean architecture, MVVM, Koin, Room. Custom theme, support portrait, landscape, phones and tablets.                            |
+| 07.2020 - 11.2021 **1y4m** | Kotlin Backend Developer(**Orange**)                 | Orange Money Romania, BFF microservice, Refactoring and Performance of GraphQL microservice. Kotlin, Kafka, Coroutines. Improve requests time from 4s to 2s. Setup TeamCity pipeline.                                                                                                                    |
+| 02.2018 - 07.2020 **2y5m** | Team Lead Android Developer(**LogoSoft**)            | I have led team of 3 people, developed from scratch [traft](https://play.google.com/store/apps/details?id=ru.traft.mobile), Single Activity, MVVM, Room, Retrofit, Git Flow, Second app [com.vezubr.driver](https://play.google.com/store/apps/details?id=ru.traft.mobile) refactoring. Setup Gitlab CI. |
+| 10.2014 - 01.2018 **3y2m** | Backend/Frontend Developer(**Reznic Software**)      | App for tourism B2B [flintour](https://flintour.com) and Backoffice application for tourism [backoffice](https://bo.flintour.com) Spring, Tomcat, Angular 1. Communicated with the client for certain projects to understand the requirements and expectations.                                          |
+| 02.2014 - 10.2014 **9m**   | Android Developer(**Livemile**)                      | Nookbank - Mobile Client Bank [app](https://play.google.com/store/apps/details?id=com.noorbank.activities)                                                                                                                                                                                               |
+| 04.2011 - 02.2014 **3y**   | CEO/Team Lead/Android Developer(**Reznic Software**) | I have led team of 6 people, 4 developers, 1 game designer, 1 graphical designer. Published about 30 games on Google Play. Socket server for Dominoes and Yahtzee games.                                                                                                                                 |
+| 04.2010 - 04.2011 **1y**   | CEO/Android Developer(**Ndroidz Software**)          | Published about 10 games on Google Play                                                                                                                                                                                                                                                                  |
+| 04.2009 - 04.2010 **1y**   | J2ME/Android Developer(**MobiTeam/Creafire**)        | Develop J2ME games, android games                                                                                                                                                                                                                                                                        |
+| 02.2008 - 04.2009 **1y2m** | Java Developer(**Vivat Consulting**)                 | J2EE Developer, implemented user interfaces, implemented business logic, performed JUnit tests, changed reports structure, export data to Microsoft Excel file.                                                                                                                                          |
+| 06.2006 - 01.2008 **1y7m** | J2ME Developer(**Meedia Mobile**)                    | Develop J2ME games, android games                                                                                                                                                                                                                                                                        |
 
 # Skills
 
-|                        |                                                               |
-|------------------------|---------------------------------------------------------------|
-| Programming Languages  | Kotlin, Java, Dart, SQL                                       |
-| Frameworks & Libraries | Android, Flutter, Spring Boot, Kafka, GraphQL, Junit, Mockito |
-| Databases              | PostgreSQL, SQLite                                            |
-| Services               | GitLab, GitHub, Docker, Jenkins, GitLab CI, Jira, Youtrack    |
+|                        |                                                                              |
+|------------------------|------------------------------------------------------------------------------|
+| Programming Languages  | Kotlin, Java, Dart, SQL                                                      |
+| Frameworks & Libraries | Android, Flutter, Spring Boot, Kafka, GraphQL,Jasper Reports, Junit, Mockito |
+| Databases              | PostgreSQL, SQLite                                                           |
+| Services               | GitLab, GitHub, Docker, Jenkins, GitLab CI, Jira, Youtrack                   |
+| IDE                    | Android Studio, IntelliJ IDEA, Eclipse                                       |
 
 #### Android
 
-* Clean Architecture
-* MVVM, MVP
+* Clean Architecture, MVVM, MVP
 * Room, Realm
-* Kotlin Coroutines
-* Retrofit
-* RxJava
+* Kotlin Coroutines, RxJava
+* Retrofit, OKHTTP, remote logs with Kibana
+* Android Jetpack (Navigation, Live Data, View Models, FCM)
+* Firebase (Crashlytics, Admob, App Distribution, Analytics, Firestore, Remote Config,)
+* Self-published apps in Google Play
+* Obfuscation Proguard
+* CI/CD, Git, Gradle, Unit Testing
 
 #### Java-Related
 
-* Kotlin: expert
+* Languages: Java, Kotlin(last 5 years only Kotlin)
 * Spring Boot:
   * Core: DI, Bean Post Processor, Aspect
   * Web: REST Controller
   * Security: Basic, Oauth, JWT tokens
   * Data: Entity, Repository, Transaction, Flyway migration
-* Tests: JUnit, Mockito
 * Kafka
 * GraphQL
+* Tomcat
+* Jasper Reports
+* Tests: JUnit, Mockito
 
 # Summary
 
@@ -61,7 +73,7 @@ and often learn new languages and technologies.
 In my free time I play computer games, improve my knowledge in English, listening podcasts.
 
 # Projects
-Flutter Taxi App
+Flutter - Taxi App
 
 [reznicsoftware.com](https://reznicsoftware.com)
 
