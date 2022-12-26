@@ -1,5 +1,7 @@
 # Alexandru Reznic - Mobile Software Developer + Backend
 
+**[Download Resume in PDF](reznic_a_android.pdf)**
+
 * Languages:
   * Russian - native
   * Romanian - native
