@@ -11,7 +11,8 @@
   * https://t.me/reznic_a
   * https://github.com/a-reznic
   * https://linkedin.com/in/reznic-a
-  * https://stackoverflow.com/users/795616/reznic
+  * [stackoverflow.com](https://leetcode.com/areznic/)
+  * [leetcode.com](https://leetcode.com/areznic/) and [source](https://github.com/a-reznic/leetcode)
 
 Moldova, Chisinau. Prefer remote work
 
