@@ -14,7 +14,7 @@
   * [stackoverflow.com](https://stackoverflow.com/users/795616/reznic?tab=profile)
   * [leetcode.com](https://leetcode.com/areznic/) and [source](https://github.com/a-reznic/leetcode)
 
-Moldova, Chisinau. Prefer remote work
+Romania, Timisoara. Prefer remote work
 
 # Professional experience `(18+ years)`
 
