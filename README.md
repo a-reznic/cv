@@ -1,5 +1,5 @@
 # Alexandru Reznic
-### Mobile Software Engineer(Native Android)
+### Mobile Software Engineer(Android + Kotlin Multiplatform)
 #### [Download Resume in PDF](https://github.com/a-reznic/resume/raw/main/reznic_a_android.pdf)
 
 * Languages:
